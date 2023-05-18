@@ -6,7 +6,7 @@ PASS='rfplusvi_jannatvip';
 DBNAME='rfplusvi_jannatvip';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=ytix.jannatvip.xyz
+SUB_DOMAIN=xo6a.jannatvip.xyz
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
